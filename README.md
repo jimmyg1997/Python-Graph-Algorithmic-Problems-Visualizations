@@ -6,7 +6,7 @@ The package is not currently available on PyPI or any other Python package repos
 
 ### Prerequisites
 * [Python 3.7](https://www.python.org/downloads/) or newer
-Git
+* [Git](https://git-scm.com/)
 
 
 ## Concept and Contents
