@@ -1,2 +1,3 @@
-# algorithms-and-visualizations
-Algorithmic problems, solutions and a variety of visualizations
+# 🌐 Python-Graph-Algorithmic-Problems-Visualizations
+
+
