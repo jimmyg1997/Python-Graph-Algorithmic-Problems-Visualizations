@@ -31,7 +31,6 @@ optional arguments:
                         Give the 4 symbols in the following order : Wall->Move->Start->End
                         
   -f GRID_FN, --grid_fn GRID_FN
-  
                         [Grid][Method#1 Parsing] Give the name of the csv file for the grid
                         
   -ag {binary,sidewinder}, --algorithm_generate {binary,sidewinder}
