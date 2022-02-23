@@ -54,4 +54,4 @@ optional arguments:
                         The algorithm to find the path in a labyrinth
 ```
 
-Typical usage is `labyrinth -ag <algorithm_generation> -d <dimensions>`, where `<algorithm_generation>` can be `binary`, `sidewinder` and `<dimensions>` is a string like 10x10 describing the dimensions of the maze to generate (width x height). The program will generate a random maze of the given size and print an ASCII representation of the maze to the console. Add the -s (--solve) flag to display the solution to the maze as well.
+Typical usage is `labyrinth -ag <algorithm_generation> -d <dimensions>`, where `<algorithm_generation>` can be `binary`, `sidewinder` and `<dimensions>` is a string like 10x10 describing the dimensions of the maze to generate (width x height). The program will generate a random maze of the given size and print an ASCII representation of the maze to the console
