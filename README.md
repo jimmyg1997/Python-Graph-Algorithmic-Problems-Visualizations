@@ -45,32 +45,28 @@ This is a project that explores algorithmic graph theory by visiting some of kno
 
 At any time, you can use the `-h` or `--help` flags to see a summary of options that the program accepts.
 
+### Program #1
 ```
 $ labyrinth -h
-usage: labyrinth [-h] [-s SYMBOLS] [-f GRID_FN] [-ag {binary,sidewinder}] [-d DIMENSIONS] [-p BINARY_PCT] [-ap {dfs,bfs}]
+usage:labyrinth [-h] [-s SYMBOLS] [-f GRID_FN] [-ag {binary,sidewinder}] [-d DIMENSIONS] [-p BINARY_PCT] [-ap {dfs,bfs}]
 
 Parse or generate labyrinth and find exit paths using different algorithms
 
 optional arguments:
   -h, --help            show this help message and exit
-  
   -s SYMBOLS, --symbols SYMBOLS
                         Give the 4 symbols in the following order : Wall->Move->Start->End
-                        
   -f GRID_FN, --grid_fn GRID_FN
                         [Grid][Method#1 Parsing] Give the name of the csv file for the grid
-                        
   -ag {binary,sidewinder}, --algorithm_generate {binary,sidewinder}
                         [Grid][Method#2 Generation] The algorithm to generate the grid labyrinth
-                        
   -d DIMENSIONS, --dimensions DIMENSIONS
                         [Grid][Method#2 Generation] Give width / height of the generated grid
-                        
   -p BINARY_PCT, --binary_pct BINARY_PCT
                         [Grid][Method#2 Generation] Give ghe percentage of the biomial geration
-                        
   -ap {dfs,bfs}, --algorithm_shortest_path {dfs,bfs}
                         The algorithm to find the path in a labyrinth
+
 ```
 
 Typical usage is `labyrinth -ag <algorithm_generation> -d <dimensions>`, where `<algorithm_generation>` can be `binary`, `sidewinder` and `<dimensions>` is a string like 10x10 describing the dimensions of the maze to generate (width x height). The program will generate a random maze of the given size and print an ASCII representation of the maze to the console
