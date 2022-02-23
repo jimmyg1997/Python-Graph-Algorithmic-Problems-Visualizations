@@ -1,7 +1,7 @@
 # 🌐 Python-Graph-Algorithmic-Problems-Visualizations
 
 
-## 1.Getting Started
+## 1. Getting Started
 The package is not currently available on PyPI or any other Python package repository. The easiest way to install it is to clone the GitHub repository and install it from source.
 
 ### Prerequisites
@@ -9,7 +9,7 @@ The package is not currently available on PyPI or any other Python package repos
 * [Git](https://git-scm.com/)
 
 
-## 3. Concept and Contents
+## 2. Concept and Contents
 
 This is a project that explores algorithmic graph theory by visiting some of known **graph algorithmic problems** and **visual solutions**. The main goal is to systematically present essnetial **key examples** that highlight efficients algorithms in a visual representation. Most of the key techniques from these algorithms have already found applications in optimization, machine learning and statistics.
  
@@ -20,9 +20,7 @@ This is a project that explores algorithmic graph theory by visiting some of kno
 | Labyrinth | Shortest Path (undirected, unweighted) | Grid Generation (binary, sidewinder) / Shortest Path (bfs, dfs)|
 
 
-
-
-## 4. Usage
+## 3. Usage
 
 At any time, you can use the `-h` or `--help` flags to see a summary of options that the program accepts.
 
