@@ -16,7 +16,7 @@ The package is not currently available on PyPI or any other Python package repos
 
 ## Usage
 
-At any time, you can use the -h or --help flags to see a summary of options that the program accepts.
+At any time, you can use the `-h` or `--help` flags to see a summary of options that the program accepts.
 
 ```
 $ maze -h
