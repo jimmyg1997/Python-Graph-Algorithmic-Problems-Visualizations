@@ -1,19 +1,19 @@
 # 🌐 Python-Graph-Algorithmic-Problems-Visualizations
 
 
-## Getting Started
+## 1.Getting Started
 The package is not currently available on PyPI or any other Python package repository. The easiest way to install it is to clone the GitHub repository and install it from source.
 
-### Prerequisites
+### 2. Prerequisites
 * [Python 3.7](https://www.python.org/downloads/) or newer
 * [Git](https://git-scm.com/)
 
 
-## Concept and Contents
+## 3. Concept and Contents
 
 This is a project that explores algorithmic graph theory by visiting some of known **graph algorithmic problems** and **visual solutions**. The main goal is to systematically present essnetial **key examples** that highlight efficients algorithms in a visual representation. Most of the key techniques from these algorithms have already found applications in optimization, machine learning and statistics.
  
-### AGENDA
+### 3.1 Agenda
 
 | Real Example | Problem Solved | Algorithms Used|
 |:-:|:-:|:-:|
@@ -22,7 +22,7 @@ This is a project that explores algorithmic graph theory by visiting some of kno
 
 
 
-## Usage
+## 4. Usage
 
 At any time, you can use the `-h` or `--help` flags to see a summary of options that the program accepts.
 
