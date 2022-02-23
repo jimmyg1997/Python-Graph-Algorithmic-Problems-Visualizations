@@ -23,9 +23,7 @@ The package does not have any dependencies besides Python itself. If you wish to
 
 When successfully installed, the following programs will be available and placed on your `PATH`. See the Usage section below for details about how to use these programs.
 
-| PROGRAMS |
-|:-:|
-|**labyrinth**|
+* **labyrinth**
 
 
 
