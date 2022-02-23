@@ -38,7 +38,7 @@ This is a project that explores algorithmic graph theory by visiting some of kno
 
 | | Program | Problem Solved | Algorithms Used|
 |:-:|:-:|:-:|:-|
-| **#1** | Labyrinth | Shortest Path (undirected, unweighted) |<ul><li>Grid Generation : {binary, sidewinder}</li><li>Shortest Path {bfs, dfs}</li></ul> |
+| **#1** | Labyrinth | Shortest Path (undirected, unweighted) |• **Grid Generation** : {binary, sidewinder}</br> • **Shortest Path** : {bfs, dfs}|
 
 
 ## 3. Usage
