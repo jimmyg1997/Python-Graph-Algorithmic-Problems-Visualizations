@@ -11,7 +11,7 @@ The package is not currently available on PyPI or any other Python package repos
 
 ## Concept and Contents
 
-This is a project that explores algorithmic graph theory by visiting some of the **graph algorithmic problems** and offer some **visual solutions**. The main goal is to systematically present essnetial key examples that highlight efficients algorithms. Most of the key techniques from these algorithms have already found applications in optimization, machine learning and statistics.
+This is a project that explores algorithmic graph theory by visiting some of known **graph algorithmic problems** and **visual solutions**. The main goal is to systematically present essnetial **key examples** that highlight efficients algorithms in a visual representation. Most of the key techniques from these algorithms have already found applications in optimization, machine learning and statistics.
  
 ### AGENDA
 
