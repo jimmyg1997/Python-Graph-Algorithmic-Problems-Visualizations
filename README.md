@@ -36,9 +36,9 @@ This is a project that explores algorithmic graph theory by visiting some of kno
  
 ### Agenda
 
-| Real Example | Problem Solved | Algorithms Used|
-|:-:|:-:|:-:|
-| Labyrinth | Shortest Path (undirected, unweighted) | Grid Generation (binary, sidewinder) / Shortest Path (bfs, dfs)|
+| | Real Example | Problem Solved | Algorithms Used|
+|:-:|:-:|:-:|:-:|
+| #1 | Labyrinth | Shortest Path (undirected, unweighted) | Grid Generation (binary, sidewinder) / Shortest Path (bfs, dfs)|
 
 
 ## 3. Usage
