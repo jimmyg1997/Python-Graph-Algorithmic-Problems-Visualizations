@@ -4,7 +4,7 @@
 ## 1.Getting Started
 The package is not currently available on PyPI or any other Python package repository. The easiest way to install it is to clone the GitHub repository and install it from source.
 
-### 2. Prerequisites
+### Prerequisites
 * [Python 3.7](https://www.python.org/downloads/) or newer
 * [Git](https://git-scm.com/)
 
@@ -13,7 +13,7 @@ The package is not currently available on PyPI or any other Python package repos
 
 This is a project that explores algorithmic graph theory by visiting some of known **graph algorithmic problems** and **visual solutions**. The main goal is to systematically present essnetial **key examples** that highlight efficients algorithms in a visual representation. Most of the key techniques from these algorithms have already found applications in optimization, machine learning and statistics.
  
-### 3.1 Agenda
+### Agenda
 
 | Real Example | Problem Solved | Algorithms Used|
 |:-:|:-:|:-:|
