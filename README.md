@@ -21,11 +21,13 @@ $ make install
 ```
 The package does not have any dependencies besides Python itself. If you wish to sandbox your installation inside a virtual environment, you may choose to use [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/) or a similar utility to do so.
 
-When successfully installed, the following program will be available and placed on your `PATH`
+When successfully installed, the following programs will be available and placed on your `PATH`. See the Usage section below for details about how to use these programs.
 
-* **labyrinth**
+| PROGRAMS |
+|:-:|
+|**labyrinth**|
 
-See the Usage section below for details about how to use these programs.
+
 
 
 
