@@ -70,3 +70,36 @@ optional arguments:
 ```
 
 Typical usage is `labyrinth -ag <algorithm_generation> -d <dimensions>`, where `<algorithm_generation>` can be `binary`, `sidewinder` and `<dimensions>` is a string like 10x10 describing the dimensions of the maze to generate (width x height). The program will generate a random maze of the given size and print an ASCII representation of the maze to the console
+
+*Example*
+```
+labyrinth -s "# 𝐒𝐄" -ag binary -d 6x6 -p 0.9 -ap bfs
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+|    ✅ 𝘀𝘁𝗲𝗽 𝟭 : Constructing (1) Grid (2) Graph    |
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+|    ✅ 𝘀𝘁𝗲𝗽 𝟮 : Find shortest path (undirected, unweighted)    |
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+|    ✅ 𝘀𝘁𝗲𝗽 𝟯 : Visualize shortest path if existing    |
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+ #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #
+ #           ⬇  ⬅  ⬅  ⬅  ⬅  ⬅  ⬅  ⬅  ⬅  ⬅  ⬅  ⬅  ⬅  #
+ #     #  #  ⬇  #  #     #  #     #  #     #  #  ⬆  #
+ #     #  #  ⬇  #  #     #  #     #  #     #  #  ⬆  #
+ #     #  #  ⬇  #  #     #  #     #  #     #  #  ⬆  #
+ #  #  #  #  ⬇  #  #     #  #     #  #     #  #  ⬆  #
+ #  #  #  #  ⬇  #  #     #  #     #  #     #  #  ⬆  #
+ #  ⬇  ⬅  ⬅  ⬅  #  #     #  #     #  #     #  #  ⬆  #
+ 𝐄  ⬅  #  #     #  #     #  #     #  #     #  #  ⬆  #
+ #     #  #     #  #     #  #     #  #     #  #  ⬆  #
+ #     #  #     #  #     #  #     #  #     #  #  ⬆  #
+ #     #  #     #  #     #  #  #  #  #  #  #  #  ⬆  #
+ #     #  #     #  #     #  #  #  #  #  #  #  #  ⬆  #
+ #     #  #     #  #     #  #                    ⬆  #
+ #     #  #     #  #     #  #     #  #     #  #  ⬆  #
+ #     #  #     #  #     #  #     #  #     #  #  ⬆  𝐒
+ #     #  #     #  #     #  #     #  #     #  #     #
+ #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #
+
+```
