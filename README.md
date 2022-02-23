@@ -7,6 +7,27 @@ The package is not currently available on PyPI or any other Python package repos
 ### Prerequisites
 * [Python 3.7](https://www.python.org/downloads/) or newer
 * [Git](https://git-scm.com/)
+* [Make](https://www.gnu.org/software/make/)
+
+
+
+### Installation Instructions
+Run the following commands in a shell (a UNIX-like environment is assumed):
+
+```
+$ git clone git@github.com:jimmyg1997/Python-Graph-Algorithmic-Problems-Visualizations/
+$ cd Python-Graph-Algorithmic-Problems-Visualizations/
+$ make install
+```
+The package does not have any dependencies besides Python itself. If you wish to sandbox your installation inside a virtual environment, you may choose to use [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/) or a similar utility to do so.
+
+When successfully installed, the following program will be available and placed on your `PATH`
+
+* **labyrinth**
+
+See the Usage section below for details about how to use these programs.
+
+
 
 
 ## 2. Concept and Contents
