@@ -110,11 +110,10 @@ This project owes a massive debt of gratitude to the following resources :
 
 ### Program #1 - Labyrinth
 * Maze Grid Generation
-  1.[Series of articles on maze generation](https://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap) featured on [Jamis Buck's blog](https://weblog.jamisbuck.org/). The step-by-step breakdown of various algorithms, along with simple diagrams and animations showing how the algorithms work, were invaluable in creating my own adaptations of these algorithms. 
-  2.[Wikipedia - Maze Generation](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
+1. [Series of articles on maze generation](https://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap) featured on [Jamis Buck's blog](https://weblog.jamisbuck.org/). The step-by-step breakdown of various algorithms, along with simple diagrams and animations showing how the algorithms work, were invaluable in creating my own adaptations of these algorithms. 
+2. [Wikipedia - Maze Generation](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
  
  * Maze Shortest path
- 
-  1. The [article on maze-solving algorithms](https://kidscodecs.com/maze-solving-algorithms/) on the website of Beanz magazine also came in handy for understanding the concept of the "junction graph" and using tree traversal to solve mazes.
-  2.[Wikipedia - Maze Solving Algorithm](https://en.wikipedia.org/wiki/Maze_solving_algorithm)
+1. The [article on maze-solving algorithms](https://kidscodecs.com/maze-solving-algorithms/) on the website of Beanz magazine also came in handy for understanding the concept of the "junction graph" and using tree traversal to solve mazes.
+2. [Wikipedia - Maze Solving Algorithm](https://en.wikipedia.org/wiki/Maze_solving_algorithm)
 
