@@ -46,8 +46,8 @@ This is a project that explores algorithmic graph theory by visiting some of kno
 At any time, you can use the `-h` or `--help` flags to see a summary of options that the program accepts.
 
 ```
-$ maze -h
-usage: __main__.py [-h] [-s SYMBOLS] [-f GRID_FN] [-ag {binary,sidewinder}] [-d DIMENSIONS] [-p BINARY_PCT] [-ap {dfs,bfs}]
+$ labyrinth -h
+usage: labyrinth [-h] [-s SYMBOLS] [-f GRID_FN] [-ag {binary,sidewinder}] [-d DIMENSIONS] [-p BINARY_PCT] [-ap {dfs,bfs}]
 
 Parse or generate labyrinth and find exit paths using different algorithms
 
