@@ -103,3 +103,14 @@ labyrinth -s "# 𝐗𝐄" -ag binary -d 6x6 -p 0.9 -ap bfs
  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #
 
 ```
+
+## 4. Usage
+
+### Program #1 - Labyrinth
+This project owes a massive debt of gratitude to the [series of articles on maze generation](https://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap) featured on [Jamis Buck's blog](https://weblog.jamisbuck.org/). The step-by-step breakdown of various algorithms, along with simple diagrams and animations showing how the algorithms work, were invaluable in creating my own adaptations of these algorithms. The [article on maze-solving algorithms](https://kidscodecs.com/maze-solving-algorithms/) on the website of Beanz magazine also came in handy for understanding the concept of the "junction graph" and using tree traversal to solve mazes.
+
+In addition to the articles linked to above, I also found the following resources helpful while working on this project:
+
+* [Wikipedia - Maze Generation](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
+* [Wikipedia - Maze Solving Algorithm](https://en.wikipedia.org/wiki/Maze_solving_algorithm)
+* https://tkdocs.com/shipman/
